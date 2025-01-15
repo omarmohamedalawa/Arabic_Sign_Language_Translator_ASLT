@@ -11,4 +11,4 @@ meetings.
 ##  Grade: Excellent
 
 Website Link:
-https://omarmohamedalawa.github.io/arabic-hand-talk/
+(https://omarmohamedalawa.github.io/Arabic_Sign_Language_Translator_ASLT/)
